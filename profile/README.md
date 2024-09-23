@@ -32,7 +32,7 @@ Overwhelmed creative agency, entrepreneur with a brilliant idea, or small busine
 # How to reach us 📫
 
 [![Website](https://img.shields.io/badge/Website-FF7377?style=for-the-badge&logo=googlechrome&logoColor=white)](https://latte-macchiat.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedindotcom&logoColor=white)](https://www.linkedin.com/company/latte-macchiatio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/latte-macchiatio)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/latte_macchiat.io)
 
 [![Website](assets/website-screenshot.jpg)](https://latte-macchiat.io)
